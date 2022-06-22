@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">First Applicationn</string>
+    <string name="text">Service Media</string>
+    <string name="startButton">Start Service</string>
+    <string name="stopButton">Stop Service</string>
+    <string name="waitButton">Wait Seconds</string>
+    <string name="switchScreenButton">Content Provider</string>
+    <string name="numberOfCountsStart">number of counts Start = </string>
+    <string name="numberOfCountsStop">number of counts Stop = </string>
+    <string name="cntTimer">Countdown Timer: </string>
+
+    <string name ="text2">Content Provider</string>
+<!--    <string name="hintText">Enter a username</string>-->
+    <string name="writeDataButton">Write Data</string>
+    <string name ="loadDataButton">Load Data</string>
+    <string name ="deleteDataButton">Delete Data</string>
+</resources>
